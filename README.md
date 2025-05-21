@@ -1,5 +1,5 @@
 
-# Pothole Detection using YOLOv8
+# Pothole Detection System
 
 This project detects potholes in images and videos using the YOLOv8 segmentation model and provides a user-friendly interface with Streamlit.
 
@@ -28,8 +28,8 @@ This project detects potholes in images and videos using the YOLOv8 segmentation
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/skusumasrees/pothole-detection-using-yolov8.git
-cd pothole-detection-using-yolov8
+git clone https://github.com/skusumasrees/PotholeDetectionSystem.git
+cd PotholeDetectionSystem
 ```
 
 2. **Install dependencies**
